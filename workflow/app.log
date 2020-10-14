@@ -1,0 +1,51 @@
+2020-05-05 01:20:26,831 - utils.logger - CRITICAL - There is a problem with Oracle DETAILS : EXCEPTION - {e}
+2020-05-05 01:38:34,450 - utils.logger - CRITICAL - Data Inserted Successfully
+2020-05-05 01:39:40,081 - utils.logger - INFO - Data Inserted Successfully
+2020-08-31 02:43:30,871 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:43:31,263 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:43:31,265 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:44:31,639 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:44:31,746 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:44:31,749 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:45:07,926 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:45:08,044 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:45:08,046 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:45:34,889 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:45:34,997 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:45:34,999 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:46:47,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:46:47,932 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:46:47,934 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:47:02,211 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:47:02,317 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:47:02,319 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:47:02,843 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52006/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}
+2020-08-31 02:47:02,843 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:52006
+2020-08-31 02:47:05,522 - urllib3.connectionpool - DEBUG - http://127.0.0.1:52006 "POST /session HTTP/1.1" 200 715
+2020-08-31 02:47:05,523 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-08-31 02:47:05,523 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52006/session/6a7bcd50ad4adae095422687eda860da/timeouts {"implicit": 100000}
+2020-08-31 02:47:05,524 - urllib3.connectionpool - DEBUG - http://127.0.0.1:52006 "POST /session/6a7bcd50ad4adae095422687eda860da/timeouts HTTP/1.1" 200 14
+2020-08-31 02:47:05,524 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-08-31 02:47:05,524 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52006/session/6a7bcd50ad4adae095422687eda860da/window/maximize {}
+2020-08-31 02:47:19,259 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:47:19,365 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:47:19,367 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:47:19,898 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52028/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}
+2020-08-31 02:47:19,898 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:52028
+2020-08-31 02:47:26,527 - urllib3.connectionpool - DEBUG - http://127.0.0.1:52028 "POST /session HTTP/1.1" 500 1094
+2020-08-31 02:47:26,527 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2020-08-31 02:47:49,068 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:47:49,169 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:47:49,171 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:48:47,438 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:48:47,537 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:48:47,539 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:48:48,081 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52091/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}
+2020-08-31 02:48:48,082 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:52091
+2020-08-31 02:52:57,497 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): apigate.robi.com.bd:443
+2020-08-31 02:52:57,603 - urllib3.connectionpool - DEBUG - https://apigate.robi.com.bd:443 "POST /token HTTP/1.1" 200 None
+2020-08-31 02:52:57,605 - utils.logger - INFO - Response received from MIFE
+2020-08-31 02:52:58,131 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://127.0.0.1:52216/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": ["--allow-running-insecure-content", "--ignore-certificate-errors"]}}}
+2020-08-31 02:52:58,131 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:52216
+2020-08-31 02:53:10,916 - urllib3.connectionpool - DEBUG - http://127.0.0.1:52216 "POST /session HTTP/1.1" 500 1094
+2020-08-31 02:53:10,916 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request

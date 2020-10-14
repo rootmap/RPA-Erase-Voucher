@@ -1,0 +1,20 @@
+{
+  "rpa_name": "erase_voucher",
+  "dbHost": "raxdw-scan.robi.com.bd",
+  "dbPort": "1628",
+  "dbServiceName": "DBC3",
+  "dbUser": "rpa",
+  "dbPassword": "bi4#VnPh",
+  "crm_download_file_directory": "../process_files/running",
+  "crm_process_completed_directory": "../process_files/completed",
+  "crm_link":"https://c1.robi.com.bd/ecommunications_enu/start.swe?SWECmd=GotoView&SWEView=All+Service+Request+List+View&SWERF=1&SWEHo=c1.robi.com.bd&SWEBU=1",
+  "crm_username":"&7,",
+  "crm_password":"TO30-F_mY1",
+  "interaction_type":"Request",
+  "ins_product":"Product & Services",
+  "ins_area":"Test_Voucher",
+  "ins_sub_area":"Test_Voucher",
+  "ins_status":"Open",
+  "PassPhase": {"A": "6", "B": "`", "C": "E", "D": "!", "E": "S", "F": "]", "G": "I", "H": "k", "I": ")", "J": "~", "K": "A", "L": "N", "M": "4", "N": "C", "O": "w", "P": "K", "Q": "c", "R": "o", "S": "H", "T": "*", "U": "X", "V": "j", "W": "T", "X": "W", "Y": "h", "Z": "'", "a": ",", "b": "Z", "c": "^", "d": "0", "e": "g", "f": ".", "g": "9", "h": "=", "i": "O", "j": "R", "k": "+", "l": "z", "m": "e", "n": "3", "o": "-", "p": "7", "q": "?", "r": "&", "s": "_", "t": "q", "u": "v", "v": "L", "w": "F", "x": "B", "y": ":", "z": "s", "0": "1", "1": "Y", "2": "t", "3": "'", "4": ";", "5": "D", "6": " ", "7": "G", "8": "@", "9": "n", ":": "5", ".": "f", ";": "V", ",": "<", "?": "i", "!": "[", "@": "m", "#": "J", "$": "\\", "%": "r", "&": ">", "(": "%", ")": "P", "+": "Q", "=": "#", "-": "d", "*": "y", "/": "(", "_": "x", "<": "u", ">": "p", " ": "M", "[": "8", "]": "U", "{": "a", "}": "/", "`": "2", "~": "}", "^": "{", "'": "$", "'": "l", "\\": "b"}
+}
+

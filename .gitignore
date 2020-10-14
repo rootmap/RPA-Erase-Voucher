@@ -1,0 +1,8 @@
+/venv/
+/idea/
+/.idea/
+/dist/
+/.dist/
+/build/
+/process_files/
+/webdrivers/drivers/
